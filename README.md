@@ -1,5 +1,5 @@
 # Lastest-SM5-Build-Raspberry
-Método simples de build do Stepmania 5 no Raspberry Pi 3
+Método rápido de build do Stepmania 5 para Raspberry Pi 3
 
 0. install gcc / g++
 1. sudo apt-get install cmake gcc g++ libmad0-dev libgtk2.0-dev binutils-dev git-core make libasound2-dev yasm libc6-dev libogg-dev libvorbis-dev libbz2-dev zlib1g-dev libjpeg8-dev libpng12-dev libxtst-dev libxrandr-dev libglew-dev libglu1-mesa-dev mesa-common-dev automake autoconf libva-dev libjack-dev
